@@ -1,6 +1,10 @@
 # budget_tracker
+designed a simple Budget tracker frontend template with the following screens the following screens:
 
-A new Flutter project.
+    Home Screen: To display user information, expense total, and a list of categories.
+    Expense Screen: On clicking a category, this screen will display the list of expenses and will have a button to add new expenses.
+    Add Expense Screen/Pop-Up: With fields to enter expense value, description, etc.
+
 
 ## Getting Started
 
